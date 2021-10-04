@@ -1,16 +1,19 @@
 body
 {
-    color:green ;
+    color:black ;
     background-color:white;
 }
-h1
+header h1
 {
     color: maroon;
-    background-color: teal;
     margin-top: 0%;
     margin-bottom: 0%;
     margin-left: 0%;
     margin-right: 0%;
     border-color: brown;
-
+    border: 30px;
+    text-align: center;
+}
+header{
+    background-color: burlywood;
 }

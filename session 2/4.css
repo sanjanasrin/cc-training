@@ -1,0 +1,51 @@
+.body{
+    
+    background-color:white;
+    }
+.nav{
+        background-color:teal;
+        overflow: hidden;
+    }
+.nav a {
+        float: left;
+        color: whitesmoke;
+        padding:0.11cm;
+        font-size: 20px;
+        margin-top: 8px;
+        font-style: initial;
+    }
+.nav a:hover{
+        background-color: white;
+        color: teal;
+    
+    }
+    .Title{
+        padding: 0.05cm;
+        background-color:teal;
+        color: white;
+        font-size:10px;
+        text-align: center;
+        margin-bottom: 10px;
+        font-weight: 700;
+        margin-top: 10px;
+}
+.Titl{
+    padding: 0.05cm;
+    background-color:teal;
+    color: white;
+    font-size:10px;
+    text-align: center;
+    margin-bottom: 10px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+.videos {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction:column ;
+}
+.audio{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}

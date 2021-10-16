@@ -1,5 +1,5 @@
 .img {
-    display: block;
+    display: flex;
     margin: auto;
     width: 50%;
     border: 3px teal;
@@ -45,7 +45,7 @@
     text-align:center;
 }
 .pic {
-    display: block;
+    display: flex;
     margin-left: auto;
     margin-right: auto;
     border: 3px teal;

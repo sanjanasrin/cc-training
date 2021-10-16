@@ -1,0 +1,13 @@
+.body{
+    background-color: seashell;
+}
+.q h1{
+    color: red;
+    padding: 4px;
+    text-align: center;
+    font-size: 40px;
+}
+.q p{
+    color: seagreen;
+    font-size: 30px;
+}
